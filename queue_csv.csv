@@ -1,0 +1,5 @@
+queue_id,queue_name
+CE,Consumer Existing
+CPB,Consumer Post Bureau
+CPRB,Consumer Pre Bureau
+VC,Visa Check
